@@ -65,29 +65,17 @@
         .ipad-pro{
             background-image: image-set(
                 url(../products/ipad_pro_wide.jpeg) 1x,
-                url(../products/ipad_pro_wide_2x.jpeg) 2x,
-            );
-            background-image: -webkit-image-set(
-                url(../products/ipad_pro_wide.jpeg) 1x,
                 url(../products/ipad_pro_wide_2x.jpeg) 2x
             );
         }
         .ipad-air{
             background-image: image-set(
                 url(../products/ipad_air_wide.jpeg) 1x,
-                url(../products/ipad_air_wide_2x.jpeg) 2x,
-            );
-            background-image: -webkit-image-set(
-                url(../products/ipad_air_wide.jpeg) 1x,
                 url(../products/ipad_air_wide_2x.jpeg) 2x
             );
         }
         .iphone-15-pro{
             background-image: image-set(
-                url(../products/iphone15_pro_wide.jpeg) 1x,
-                url(../products/iphone15_pro_wide_2x.jpeg) 2x
-            );
-            background-image: -webkit-image-set(
                 url(../products/iphone15_pro_wide.jpeg) 1x,
                 url(../products/iphone15_pro_wide_2x.jpeg) 2x
             );
@@ -144,17 +132,9 @@
         url(../products/ipad_pro.jpeg) 1x,
         url(../products/ipad_pro_2x.jpeg) 2x
     );
-    background-image: -webkit-image-set(
-        url(../products/ipad_pro.jpeg) 1x,
-        url(../products/ipad_pro_2x.jpeg) 2x
-    );
 }
 .ipad-air{
     background-image: image-set(
-        url(../products/ipad_air.jpeg) 1x,
-        url(../products/ipad_air_2x.jpeg) 2x,
-    );
-    background-image: -webkit-image-set(
         url(../products/ipad_air.jpeg) 1x,
         url(../products/ipad_air_2x.jpeg) 2x
     );
@@ -164,17 +144,9 @@
         url(../products/iphone15_pro.jpeg) 1x,
         url(../products/iphone15_pro_2x.jpeg) 2x
     );
-    background-image: -webkit-image-set(
-        url(../products/iphone15_pro.jpeg) 1x,
-        url(../products/iphone15_pro_2x.jpeg) 2x
-    );
 }
 .iphone-15{
     background-image: image-set(
-        url(../products/iphone15.jpeg) 1x,
-        url(../products/iphone15_2x.jpeg) 2x
-    );
-    background-image: -webkit-image-set(
         url(../products/iphone15.jpeg) 1x,
         url(../products/iphone15_2x.jpeg) 2x
     );
@@ -184,27 +156,15 @@
         url(../products/apple_watch.jpeg) 1x,
         url(../products/apple_watch_2x.jpeg) 2x
     );
-    background-image: -webkit-image-set(
-        url(../products/apple_watch.jpeg) 1x,
-        url(../products/apple_watch_2x.jpeg) 2x
-    );
 }
 .macbook-air{
     background-image: image-set(
         url(../products/macbook_air.jpeg) 1x,
         url(../products/macbook_air_2x.jpeg) 2x
     );
-    background-image: -webkit-image-set(
-        url(../products/macbook_air.jpeg) 1x,
-        url(../products/macbook_air_2x.jpeg) 2x
-    );
 }
 .airpod-pro{
     background-image: image-set(
-        url(../products/airpods_pro.jpeg) 1x,
-        url(../products/airpods_pro_2x.jpeg) 2x
-    );
-    background-image: -webkit-image-set(
         url(../products/airpods_pro.jpeg) 1x,
         url(../products/airpods_pro_2x.jpeg) 2x
     );
